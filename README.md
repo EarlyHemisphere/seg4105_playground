@@ -6,6 +6,10 @@ SEG4105 first github repo.
 
 ## Code Example
 
+```
+print('Hello world')
+```
+
 ## Motivation
 
 Created for lab1.
